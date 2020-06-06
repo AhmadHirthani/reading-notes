@@ -1,6 +1,6 @@
 # Reading Notes
 Wellcome to my reading notes. Reading notes is the second step in our journey to programming. The first one was [Learning journal](https://ahmadhirthani.github.io/learning-journal/).
-In this Reading notes we will cover 15 topics on web development using ###HTML, ###CSS, ###JavaScript and ###NodeJs. [Go To Reading Notes](https://ahmadhirthani.github.io/reading-notes/)
+In this Reading notes we will cover 15 topics on web development using ### HTML, ### CSS, ### JavaScript and ### NodeJs. [Go To Reading Notes](https://ahmadhirthani.github.io/reading-notes/)
 
 
 **No** | **Topic** | **URL**
