@@ -3,6 +3,7 @@ Wellcome to my reading notes. Reading notes is the second step in our journey to
 In this Reading notes we will cover 15 topics on *web development* using **HTML**, **CSS**, **JavaScript** and **NodeJs**. [Go To Reading Notes](https://ahmadhirthani.github.io/reading-notes/)
 
 ## Content
+This table contain the links to all covered topics
 **No** | **Topic** | **URL**
 --- | --- | ---
 1  | *__Day one__* | [](https://ahmadhirthani.github.io/learning-journal/markdown)
