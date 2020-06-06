@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Reading Notes
 
 You can use the [editor on GitHub](https://github.com/AhmadHirthani/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AhmadHirthani/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**No** | **Topic** | **URL**
+--- | --- | ---
+1  | *__Day one__* | [](https://ahmadhirthani.github.io/learning-journal/markdown)
+2  | *__Day two__* | [](https://ahmadhirthani.github.io/learning-journal/growth_mindset)
+3  | *__Day three__* | [](https://ahmadhirthani.github.io/learning-journal/coders_computer)
+4  | *__Day four__* | [](https://ahmadhirthani.github.io/learning-journal/html)
+5  | *__Day five__* | [](https://ahmadhirthani.github.io/learning-journal/css)
+6  | *__Day six__* | [](https://ahmadhirthani.github.io/learning-journal/git)
+7  | *__Day seven__* | [](https://ahmadhirthani.github.io/learning-journal/javascript)
+8  | *__Day eghit__* | [](https://ahmadhirthani.github.io/learning-journal/howComputerWrorks)
+9  | *__Day nine__* | [](https://ahmadhirthani.github.io/learning-journal/jsprogramming)
+10 | *__Day ten__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
+11 | *__Day eleven__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
+12 | *__Day twelve__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
+13 | *__Day thirteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
+14 | *__Day fourteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
+15 | *__Day fifteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
