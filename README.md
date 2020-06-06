@@ -1,8 +1,7 @@
 # Reading Notes
+Wellcome to my reading notes. Reading notes is the second step in our journey to programming. The first one was [Learning journal](https://ahmadhirthani.github.io/learning-journal/).
+In this Reading notes we will cover 15 topics on web development using ###HTML, ###CSS, ###JavaScript and ###NodeJs. [Go To Reading Notes](https://ahmadhirthani.github.io/reading-notes/)
 
-You can use the [editor on GitHub](https://github.com/AhmadHirthani/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 **No** | **Topic** | **URL**
 --- | --- | ---
