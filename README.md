@@ -5,7 +5,7 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 
 **No** | **Topic** | **URL**
 --- | --- | ---
-1  | *__Day one__* | [](https://ahmadhirthani.github.io/learning-journal/markdown)
+1  | *__Day one__* | [Day one](https://ahmadhirthani.github.io/learning-journal/markdown)
 2  | *__Day two__* | [](https://ahmadhirthani.github.io/learning-journal/growth_mindset)
 3  | *__Day three__* | [](https://ahmadhirthani.github.io/learning-journal/coders_computer)
 4  | *__Day four__* | [](https://ahmadhirthani.github.io/learning-journal/html)
