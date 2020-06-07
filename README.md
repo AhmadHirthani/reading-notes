@@ -5,7 +5,7 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 
 **No** | **Topic** | **URL**
 --- | --- | ---
-1  | *__Read_01__* | [HTML and JavaScript](https://ahmadhirthani.github.io/reading-notes/class-01)
+1  | *__Read_01__* | [Introductory HTML and JavaScript](https://ahmadhirthani.github.io/reading-notes/class-01)
 2  | *__Read_02__* | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://ahmadhirthani.github.io/reading-notes/class-02)
 3  | *__Day three__* | [](https://ahmadhirthani.github.io/learning-journal/coders_computer)
 4  | *__Day four__* | [](https://ahmadhirthani.github.io/learning-journal/html)
