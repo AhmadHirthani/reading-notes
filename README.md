@@ -20,4 +20,4 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 13 | *__Day thirteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
 14 | *__Day fourteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
 15 | *__Day fifteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
-prompt=
+
