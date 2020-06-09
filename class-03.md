@@ -16,23 +16,23 @@ CSS is styling language. One of the important styling things is CSS Boxes which 
 Control flow is very important for any programming language. JavaScript control the flow with two statements, if and switch. The benefit if the control flow is to make the computer deciding what to do according to changing value.
 ## If statement syntax:
 if(condition){  
-    code to run if the condition achieved
-}else if(another condition to check with it){
-        code to run if the other condition achieved
-}else{
-        code to run if none of the condition achieved
-}
+    code to run if the condition achieved  
+}else if(another condition to check with it){  
+        code to run if the other condition achieved  
+}else{  
+        code to run if none of the condition achieved  
+}  
 Note that else if and else are optional which means it is not mandatory to write them if you do not need.
 
 ## Switch case syntax:
-switch(the variable name){
-    case 'value to compare with variable':
-    code to run if the value equal to the variable;
-    break;
-    case 'value2 to compare with variable':
-    code to run if the value2 equal to the variable;
-    break;
-    default:
-    code to run if the none of the values equal to the variable;
-    break;
+switch(the variable name){  
+    case 'value to compare with variable':  
+    code to run if the value equal to the variable;  
+    break;  
+    case 'value2 to compare with variable':  
+    code to run if the value2 equal to the variable;  
+    break;  
+    default:  
+    code to run if the none of the values equal to the variable;  
+    break;  
 }
