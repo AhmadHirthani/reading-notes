@@ -15,7 +15,7 @@ CSS is styling language. One of the important styling things is CSS Boxes which 
 # JS Control Flow
 Control flow is very important for any programming language. JavaScript control the flow with two statements, if and switch. The benefit if the control flow is to make the computer deciding what to do according to changing value.
 ## If statement syntax:
-if(condition){
+if(condition){\n
     code to run if the condition achieved
 }else if(another condition to check with it){
         code to run if the other condition achieved
