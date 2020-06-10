@@ -11,13 +11,14 @@ If you want to put email link, you only need to put the the word mailto: then th
 For exampe: \<a href="mailto:jon@example.org">Email Jon\</a>
 ## Linking to Other Pages on the Same Site
 If you want to link to other pages on the Same Site, you only need to put the name of the page including the path in the href attribute.  
- For Example: \<a href="contact.html">Contact\</a>  
+ For Example: \<a href="contact.html">Contact\</a>
 
  # CSS Layout
- Using thc CSS layout we can modify the element layout properties such as position. Position is very important to orgnaize the layout of your web page. Positon property has five options: static, relative, fixed, absolute and sticky. An element with position: static; is not positioned in any special way; it is always positioned according to the normal flow of the page. An element with position: relative; is positioned relative to its normal position. An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled.  
- 
+ Using thc CSS layout we can modify the element layout properties such as position. Position is very important to orgnaize the layout of your web page. Positon property has five options: static, relative, fixed, absolute and sticky. An element with position: static; is not positioned in any special way; it is always positioned according to the normal flow of the page. An element with position: relative; is positioned relative to its normal position. An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled.
+
  # JavaScript Methods and Functions
- Function is a block of code that we can write to be useful instead of rewrite the code more and more times. Using function we can write the code one time use it as much as we need by calling the function.  
+ Function is a block of code that we can write to be useful instead of rewrite the code more and more times. Using function we can write the code one time use it as much as we need by calling the function.
+ 
  ## Function Syntax
  function (function parameters){  
      code to run;  
