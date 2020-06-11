@@ -9,16 +9,7 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 2  | *__Read_02__* | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://ahmadhirthani.github.io/reading-notes/class-02)
 3  | *__Read_03__* | [HTML Lists, CSS Boxes, JS Control Flow](https://ahmadhirthani.github.io/reading-notes/class-03)
 4  | *__Read_04__* | [HTML Links, CSS Layout, JS Functions](https://ahmadhirthani.github.io/reading-notes/class-04)
+5  | *__Read_05__* | [HTML Images; CSS Color & Text](https://ahmadhirthani.github.io/reading-notes/class-05)
 
-5  | *__Day five__* | [](https://ahmadhirthani.github.io/learning-journal/css)
-6  | *__Day six__* | [](https://ahmadhirthani.github.io/learning-journal/git)
-7  | *__Day seven__* | [](https://ahmadhirthani.github.io/learning-journal/javascript)
-8  | *__Day eghit__* | [](https://ahmadhirthani.github.io/learning-journal/howComputerWrorks)
-9  | *__Day nine__* | [](https://ahmadhirthani.github.io/learning-journal/jsprogramming)
-10 | *__Day ten__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
-11 | *__Day eleven__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
-12 | *__Day twelve__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
-13 | *__Day thirteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
-14 | *__Day fourteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
-15 | *__Day fifteen__* | [](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
+
 
