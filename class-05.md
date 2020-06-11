@@ -10,4 +10,13 @@ body {
     color: white;  
 }  
 
+
+
+
 # CSSText
+One of the important things to style in your web site is the text. Text 
+
+
+Chapter 5: “Images” (pp.94-125)
+Chapter 11: “Color” (pp.246-263)
+Chapter 12: “Text” (pp.264-299)
