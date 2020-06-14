@@ -10,6 +10,9 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 3  | *__Read_03__* | [HTML Lists, CSS Boxes, JS Control Flow](https://ahmadhirthani.github.io/reading-notes/class-03)
 4  | *__Read_04__* | [HTML Links, CSS Layout, JS Functions](https://ahmadhirthani.github.io/reading-notes/class-04)
 5  | *__Read_05__* | [HTML Images; CSS Color & Text](https://ahmadhirthani.github.io/reading-notes/class-05)
+6  | *__Read_05__* | [JS Object Literals; The DOM](https://ahmadhirthani.github.io/reading-notes/class-06)
+
+
 
 
 
