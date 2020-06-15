@@ -28,10 +28,21 @@ You can view more powerfull table by deviding the table into three parts: header
             <td colspan="2">Sign up now and save 10%!</td>  
         </tr>  
     </tfoot>  
- </table>  
+</table>  
 
- # JavaScrip Objects: Constructor notaions
- We talked about creating JavaScript objects using literal notaion and today we will take about another way to create JavaScript objects which called constructor notaions. Constructor notaions do the same as literal notaion but it differ in which we can use several objects to represent similar things. For example
+# JavaScrip Objects: Constructor notaions
+We talked about creating JavaScript objects using literal notaion and today we will take about another way to create JavaScript objects which called constructor notaions. Constructor notaions do the same as literal notaion but it differ in which we can use several objects to represent similar things. To declare object using constructor notaions we first use a normal function declration but inside the function we add this. in the start of variables name to inform the browser that this variable is only for the function. This function is a template for the object then we can create objects from it by using the word new.
+
+## Constructor notaions example:
+function Hotel (name, rooms, booked) {    
+    this.name= name;  
+    this.rooms= rooms;  
+    this.booked= booked;  
+    this.checkAvailability= function() {  
+        return this.rooms - this.booked;  
+        };  
+}  
+
 
 
 
