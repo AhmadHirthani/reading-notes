@@ -12,6 +12,7 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 5  | *__Read_05__* | [HTML Images; CSS Color & Text](https://ahmadhirthani.github.io/reading-notes/class-05)
 6  | *__Read_06__* | [JS Object Literals; The DOM](https://ahmadhirthani.github.io/reading-notes/class-06)
 7  | *__Read_07__* | [HTML Tables; JS Constructor Functions](https://ahmadhirthani.github.io/reading-notes/class-07)
+8  | *__Read_08__* | [CSS Layout](https://ahmadhirthani.github.io/reading-notes/class-08)
 
 
 
