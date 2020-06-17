@@ -18,6 +18,11 @@ Events are a huge feature when it comes to using JavaScript. Events is something
 In browser levelled events, we have tons of events such as load, resize and scroll. In DOM levelled events we have a bunch of different ones such as clicking on something, drag mouse, move mouse around and form based events which activates anytime we do anything using form.
 
 ## How we use events inside website?
+There are many ways to use the events. One of the most used one is with buttons. For example if we have a button and we want a function to run when this button is pressed we can add the attribute onclick to the button tag and give the name of the function as attribute’s value. Also we can use the attribute event and give it a JavaScript code as a value.
+## Events example
+\<button onclick="this.innerHTML = Date()">The time is?\</button>  
+\<button onclick="displayDate()">The time is?\</button>  
+
 
 
 
