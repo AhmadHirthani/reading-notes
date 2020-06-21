@@ -14,7 +14,9 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 7  | *__Read_07__* | [HTML Tables; JS Constructor Functions](https://ahmadhirthani.github.io/reading-notes/class-07)
 8  | *__Read_08__* | [CSS Layout](https://ahmadhirthani.github.io/reading-notes/class-08)
 9  | *__Read_09__* | [Forms and Events](https://ahmadhirthani.github.io/reading-notes/class-09)
-10  | *__Rea1009__* | [JS Debugging](https://ahmadhirthani.github.io/reading-notes/class-10)
+10  | *__Read_10__* | [JS Debugging](https://ahmadhirthani.github.io/reading-notes/class-10)
+11  | *__Read_11__* | [Audio, Video, Images](https://ahmadhirthani.github.io/reading-notes/class-11)
+
 
 
 
