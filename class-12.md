@@ -5,7 +5,7 @@ No one can disagree with that charts are easier and morle clear than tables. Cha
 In this example we have declared a canvas tag in the html file with the id buyers, then we use the id to access the canvan tag from javaScript file, then we add the content of buyerData array to the canvas element.
 
 ### HTML file:
-<canvas id="buyers" width="600" height="400"></canvas>
+\<canvas id="buyers" width="600" height="400"></canvas>
 
 ### JavaScript file:
 var buyerData = {  
