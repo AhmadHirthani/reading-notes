@@ -17,6 +17,8 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 10  | *__Read_10__* | [JS Debugging](https://ahmadhirthani.github.io/reading-notes/class-10)
 11  | *__Read_11__* | [Audio, Video, Images](https://ahmadhirthani.github.io/reading-notes/class-11)
 12  | *__Read_12__* | [Chart.js, Canvas](https://ahmadhirthani.github.io/reading-notes/class-12)
+13  | *__Read_13__* | [Local Storage](https://ahmadhirthani.github.io/reading-notes/class-13)
+
 
 
 
