@@ -18,6 +18,10 @@ In this Reading notes we will cover 15 topics on *web development* using **HTML*
 11  | *__Read_11__* | [Audio, Video, Images](https://ahmadhirthani.github.io/reading-notes/class-11)
 12  | *__Read_12__* | [Chart.js, Canvas](https://ahmadhirthani.github.io/reading-notes/class-12)
 13  | *__Read_13__* | [Local Storage](https://ahmadhirthani.github.io/reading-notes/class-13)
+14  | *__Read_14A__* | [CSS Transforms, Transitions, and Animations](https://ahmadhirthani.github.io/reading-notes/class-14a)
+15  | *__Read_14B__* | [What Google Learned About Teams](https://ahmadhirthani.github.io/reading-notes/class-14b)
+
+
 
 
 
