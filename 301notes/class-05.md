@@ -15,7 +15,7 @@ First of all you should download Node.js in your device then we will create a ja
 #### }).listen(3000);
 Then test its working using this command ``node server.js`` in your terminal then check it in your browser. Your new server's address is http://localhost:3000/.
 
-<img src="img/idykoj7.png" alt="web browser" width="500" height="600">
+![web browser](http://i.imgur.com/idykoj7.png)
 
 ## Make it worldwide
 Works fine. But it works locally. WWW is for "World Wide Web" and we will turn your local server into a world wide server. We'll use Heroku cloud application platform for this. First of all, you need to create an account on developer's site and install Heroku. The first step after Heroku installation is to log in to the system from your computer using this command ``heroku login``.
@@ -93,7 +93,7 @@ But unfortunatly this is not waht we need. Of course we can use this command to 
 #### var port_number = server.listen(process.env.PORT || 3000);
 
 Now it's time to create some content. We will create img and style folders to organize our code then we will create the index.html which looks like:
-![index page html code](img/indexHtml.png)
+![index page html code](https://drive.google.com/file/d/107GZqgDNwR_UhTQ2xtsPe5qv0uL8UsN7/view?usp=sharing)
 
 Here you can see how the main page looks like:
 ![web browser with runing page](http://i.imgur.com/3pSODQH.png)
