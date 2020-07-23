@@ -9,9 +9,10 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 **No** | **Topic** | **URL**
 --- | --- | ---
 1  | *__Read_01__* | [SMACSS and Responsive Web Design](https://ahmadhirthani.github.io/reading-notes/301notes/class-01)
-1  | *__Read_02__* | [jQuery, Events, and The DOM](https://ahmadhirthani.github.io/reading-notes/301notes/class-02)
-1  | *__Read_03__* | [Flexbox and Templating](https://ahmadhirthani.github.io/reading-notes/301notes/class-03)
-1  | *__Read_04__* | [Responsive Web Design and Regular Expressions](https://ahmadhirthani.github.io/reading-notes/301notes/class-04)
+2  | *__Read_02__* | [jQuery, Events, and The DOM](https://ahmadhirthani.github.io/reading-notes/301notes/class-02)
+3  | *__Read_03__* | [Flexbox and Templating](https://ahmadhirthani.github.io/reading-notes/301notes/class-03)
+4  | *__Read_04__* | [Responsive Web Design and Regular Expressions](https://ahmadhirthani.github.io/reading-notes/301notes/class-04)
+5  | *__Read_05__* | [Heroku Deployment](https://ahmadhirthani.github.io/reading-notes/301notes/class-05)
 
 
 
