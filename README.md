@@ -16,6 +16,8 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 6  | *__Read_06__* | [Node.js](https://ahmadhirthani.github.io/reading-notes/301notes/class-06)
 7  | *__Read_07__* | [REST API](https://ahmadhirthani.github.io/reading-notes/301notes/class-07)
 8  | *__Read_08__* | [SQL Database](https://ahmadhirthani.github.io/reading-notes/301notes/class-08)
+9  | *__Read_09__* | [Functional programming](https://ahmadhirthani.github.io/reading-notes/301notes/class-09)
+
 
 
 
