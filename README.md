@@ -17,7 +17,9 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 7   | *__Read_07__* | [REST API](https://ahmadhirthani.github.io/reading-notes/301notes/class-07)
 8   | *__Read_08__* | [SQL Database](https://ahmadhirthani.github.io/reading-notes/301notes/class-08)
 9   | *__Read_09__* | [Functional programming](https://ahmadhirthani.github.io/reading-notes/301notes/class-09)
-10  | *__Read_10__* | [The Call Stack ](https://ahmadhirthani.github.io/reading-notes/301notes/class-10)
+10  | *__Read_10__* | [The Call Stack](https://ahmadhirthani.github.io/reading-notes/301notes/class-10)
+11  | *__Read_11__* | [EJS](https://ahmadhirthani.github.io/reading-notes/301notes/class-11)
+
 
 
 
