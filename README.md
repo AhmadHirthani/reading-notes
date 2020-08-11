@@ -20,6 +20,8 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 10  | *__Read_10__* | [The Call Stack](https://ahmadhirthani.github.io/reading-notes/301notes/class-10)
 11  | *__Read_11__* | [EJS](https://ahmadhirthani.github.io/reading-notes/301notes/class-11)
 12  | *__Read_12__* | [EJS PARTIALS](https://ahmadhirthani.github.io/reading-notes/301notes/class-12)
+13  | *__Read_13__* | [Update/Delete](https://ahmadhirthani.github.io/reading-notes/301notes/class-13)
+
 
 
 
