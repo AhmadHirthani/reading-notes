@@ -22,6 +22,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 12  | *__Read_12__* | [EJS PARTIALS](https://ahmadhirthani.github.io/reading-notes/301notes/class-12)
 13  | *__Read_13__* | [Update/Delete](https://ahmadhirthani.github.io/reading-notes/301notes/class-13)
 14  | *__Read_14__* | [Database Normalization](https://ahmadhirthani.github.io/reading-notes/301notes/class-14)
+15  | *__Read_15__* | [Gender's role in programming industry](https://ahmadhirthani.github.io/reading-notes/301notes/class-15)
 
 
 
