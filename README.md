@@ -11,6 +11,9 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 0   | *__Pre_Read__* | [Engineering Topics](https://ahmadhirthani.github.io/reading-notes/401notes/class-00)
 1   | *__Read_01__* | [Node Ecosystem, TDD, CI](https://ahmadhirthani.github.io/reading-notes/401notes/class-01)
 2   | *__Read_02__* | [classes](https://ahmadhirthani.github.io/reading-notes/401notes/class-02)
+3   | *__Read_03__* | [No Sql Database](https://ahmadhirthani.github.io/reading-notes/401notes/class-03)
+4   | *__Read_04__* | [Advanced Mongo/Mongoose](https://ahmadhirthani.github.io/reading-notes/401notes/class-04)
+
 
 
 
