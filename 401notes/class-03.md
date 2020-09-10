@@ -28,4 +28,4 @@ We decide to use SQL or NoSQL according to app itself. If we have an application
 
 ## NoSQL Data Modeling
 To  explore data modeling techniques, we have to start with a more or less systematic view of NoSQL data models that preferably reveals trends and interconnections. The following figure depicts imaginary “evolution” of the major NoSQL system families, namely, Key-Value stores, BigTable-style databases, Document databases, Full Text Search Engines, and Graph databases:
-![SMACSS Image](nosqldatamodeling.png)
+![SMACSS Image](../img/nosqldatamodeling.png)
