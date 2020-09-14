@@ -15,6 +15,8 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 4   | *__Read_04__* | [Advanced Mongo/Mongoose](https://ahmadhirthani.github.io/reading-notes/401notes/class-04)
 5   | *__Read_05__* | [Linked List](https://ahmadhirthani.github.io/reading-notes/401notes/class-05)
 6   | *__Read_06__* | [REST and HTTP](https://ahmadhirthani.github.io/reading-notes/401notes/class-06)
+7   | *__Read_07__* | [Middleware](https://ahmadhirthani.github.io/reading-notes/401notes/class-07)
+
 
 
 
