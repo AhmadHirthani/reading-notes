@@ -6,7 +6,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 [Go To 301 Reading Notes Page](https://ahmadhirthani.github.io/reading-notes/301notes)
 [Go To 401 Reading Notes Page](https://ahmadhirthani.github.io/reading-notes/401notes)
 
-**No** | **Topic** | **URL**
+**No** | **Topics** | **URL**
 --- | --- | ---
 0   | *__Pre_Read__* | [Engineering Topics](https://ahmadhirthani.github.io/reading-notes/401notes/class-00)
 1   | *__Read_01__* | [Node Ecosystem, TDD, CI](https://ahmadhirthani.github.io/reading-notes/401notes/class-01)
