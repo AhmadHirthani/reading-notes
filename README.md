@@ -17,10 +17,10 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 06   | *__Read_06__* | [REST and HTTP](https://ahmadhirthani.github.io/reading-notes/401notes/class-06)
 07   | *__Read_07__* | [Middleware](https://ahmadhirthani.github.io/reading-notes/401notes/class-07)
 08   | *__Read_08__* | [Routes](https://ahmadhirthani.github.io/reading-notes/401notes/class-8)
-
 09   | *__Read_09__* | [Mongoose Middleware](https://ahmadhirthani.github.io/reading-notes/401notes/class-09)
 10   | *__Read_10__* | [Stacks and Queues](https://ahmadhirthani.github.io/reading-notes/401notes/class-10)
 11   | *__Read_11__* | [Authentication](https://ahmadhirthani.github.io/reading-notes/401notes/class-11)
+
 
 
 
