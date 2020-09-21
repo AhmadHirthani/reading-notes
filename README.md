@@ -20,6 +20,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 09   | *__Read_09__* | [Mongoose Middleware](https://ahmadhirthani.github.io/reading-notes/401notes/class-09)
 10   | *__Read_10__* | [Stacks and Queues](https://ahmadhirthani.github.io/reading-notes/401notes/class-10)
 11   | *__Read_11__* | [Authentication](https://ahmadhirthani.github.io/reading-notes/401notes/class-11)
+12   | *__Read_12__* | [OAuth](https://ahmadhirthani.github.io/reading-notes/401notes/class-12)
 
 
 
