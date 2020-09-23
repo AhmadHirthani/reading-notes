@@ -21,6 +21,8 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 10   | *__Read_10__* | [Stacks and Queues](https://ahmadhirthani.github.io/reading-notes/401notes/class-10)
 11   | *__Read_11__* | [Authentication](https://ahmadhirthani.github.io/reading-notes/401notes/class-11)
 12   | *__Read_12__* | [OAuth](https://ahmadhirthani.github.io/reading-notes/401notes/class-12)
+13   | *__Read_13__* | [Berear](https://ahmadhirthani.github.io/reading-notes/401notes/class-13)
+14   | *__Read_14__* | [Access Control](https://ahmadhirthani.github.io/reading-notes/401notes/class-14)
 
 
 
