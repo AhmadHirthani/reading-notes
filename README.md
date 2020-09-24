@@ -23,6 +23,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 12   | *__Read_12__* | [OAuth](https://ahmadhirthani.github.io/reading-notes/401notes/class-12)
 13   | *__Read_13__* | [Berear](https://ahmadhirthani.github.io/reading-notes/401notes/class-13)
 14   | *__Read_14__* | [Access Control](https://ahmadhirthani.github.io/reading-notes/401notes/class-14)
+15   | *__Read_15__* | [Trees](https://ahmadhirthani.github.io/reading-notes/401notes/class-15)
 
 
 
