@@ -26,7 +26,7 @@ In depth first, we give the priority to go through each node's childrens mans go
 In breadth first, we give the priority to go through the tree level by level, node by node starting from root level until reaching the last leaf.
 
 ### Example
-![Breadth First Example](../assets/breadth first.png)
+![Breadth First Example](../assets/breadth_first.png)
 
 The output using breadth first traversal for the previous image will be:  
 
