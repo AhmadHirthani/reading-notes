@@ -25,6 +25,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 14   | *__Read_14__* | [Access Control](https://ahmadhirthani.github.io/reading-notes/401notes/class-14)
 15   | *__Read_15__* | [Trees](https://ahmadhirthani.github.io/reading-notes/401notes/class-15)
 16   | *__Read_16__* | [Event Driven Programming](https://ahmadhirthani.github.io/reading-notes/401notes/class-16)
+17   | *__Read_17__* | [ TCP Servers](https://ahmadhirthani.github.io/reading-notes/401notes/class-17)
 
 
 
