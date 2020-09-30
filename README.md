@@ -27,7 +27,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 16   | *__Read_16__* | [Event Driven Programming](https://ahmadhirthani.github.io/reading-notes/401notes/class-16)
 17   | *__Read_17__* | [ TCP Servers](https://ahmadhirthani.github.io/reading-notes/401notes/class-17)
 18   | *__Read_18__* | [Socket.io](https://ahmadhirthani.github.io/reading-notes/401notes/class-18)
-
+19   | *__Read_19__* | [Socket.io Rooms and Namespaces](https://ahmadhirthani.github.io/reading-notes/401notes/class-19)
 
 
 
