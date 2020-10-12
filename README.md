@@ -29,6 +29,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 18   | *__Read_18__* | [Socket.io](https://ahmadhirthani.github.io/reading-notes/401notes/class-18)
 19   | *__Read_19__* | [Socket.io Rooms and Namespaces](https://ahmadhirthani.github.io/reading-notes/401notes/class-19)
 20   | *__Read_26__* | [Component based UI](https://ahmadhirthani.github.io/reading-notes/401notes/class-26)
+21   | *__Read_27__* | [Props and State](https://ahmadhirthani.github.io/reading-notes/401notes/class-27)
 
 
 
