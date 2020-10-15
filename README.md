@@ -32,6 +32,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 21   | *__Read_27__* | [Props and State](https://ahmadhirthani.github.io/reading-notes/401notes/class-27)
 22   | *__Read_28__* | [Component Composition](https://ahmadhirthani.github.io/reading-notes/401notes/class-28)
 23   | *__Read_29__* | [Routing](https://ahmadhirthani.github.io/reading-notes/401notes/class-29)
+24   | *__Read_30__* | [Hash Table](https://ahmadhirthani.github.io/reading-notes/401notes/class-30)
 
 
 
