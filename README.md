@@ -35,6 +35,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 24   | *__Read_30__* | [Hash Table](https://ahmadhirthani.github.io/reading-notes/401notes/class-30)
 24   | *__Read_31__* | [React Hooks](https://ahmadhirthani.github.io/reading-notes/401notes/class-31)
 25   | *__Read_32__* | [Custom Hooks](https://ahmadhirthani.github.io/reading-notes/401notes/class-32)
+26   | *__Read_33__* | [Context Api](https://ahmadhirthani.github.io/reading-notes/401notes/class-33)
 
 
 
