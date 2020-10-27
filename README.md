@@ -40,6 +40,7 @@ In this Reading notes we will cover more advanced topics in **HTML**, **CSS**, *
 28   | *__Read_35__* | [Graphs](https://ahmadhirthani.github.io/reading-notes/401notes/class-35)
 29   | *__Read_36__* | [Redux](https://ahmadhirthani.github.io/reading-notes/401notes/class-36)
 30   | *__Read_37__* | [Redux](https://ahmadhirthani.github.io/reading-notes/401notes/class-37)
+31   | *__Read_38__* | [Thunk](https://ahmadhirthani.github.io/reading-notes/401notes/class-38)
 
 
 
